@@ -50,6 +50,6 @@ test.describe('Login Functionality', () => {
         });
     });
     test("  Verify Remember Me Functionality", async ({ loginPage }) => {
-             console.log("remember me functionality still in process");
+            
     });
 });
